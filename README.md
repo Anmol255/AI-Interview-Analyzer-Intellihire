@@ -1,7 +1,7 @@
-#IntelliHire - AI Interview Analyzer
+# IntelliHire - AI Interview Analyzer
 An AI-powered system that evaluates interview responses using NLP and transformer-based semantic similarity.
 
-##Features
+## Features
 - Multi-question interview evaluation
 - Sentence Transformer-based semantic similarity
 - Sentiment analysis
@@ -11,7 +11,7 @@ An AI-powered system that evaluates interview responses using NLP and transforme
 - Saves interview history (CSV tracking)
 - Interactive Streamlit web app
 
-##Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - NLP (TextBlob)
@@ -20,7 +20,7 @@ An AI-powered system that evaluates interview responses using NLP and transforme
 - Pandas
 - Matplotlib
 
-##How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
